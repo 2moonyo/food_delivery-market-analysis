@@ -1,0 +1,27 @@
+Total count of restaurants in Unknown Region: 0
+Total number of unique postal codes in Unknown Region: 0
+Exported unknown region data to 'unknown_region_data.csv'.
+Total number of restaurants after computing province and region: 4071
+
+Top 20 Locations by Number of Unique Restaurants (Takeaway):
+                    city  restaurant_count
+0              Antwerpen               437
+1                   Gent               309
+2              Bruxelles               264
+3                 Leuven               174
+4             Schaerbeek               110
+5                 Brugge                96
+6               Oostende                85
+7               Mechelen                84
+8             Anderlecht                84
+9                 Deurne                56
+10                 Uccle                51
+11               Ixelles                50
+12                Laeken                48
+13             Etterbeek                43
+14               Hasselt                41
+15          Sint-Niklaas                39
+16                 Aalst                38
+17  Molenbeek-Saint-Jean                36
+18                  Genk                32
+19                 Jette                30

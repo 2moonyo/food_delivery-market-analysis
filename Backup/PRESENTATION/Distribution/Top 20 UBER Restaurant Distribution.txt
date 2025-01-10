@@ -1,0 +1,26 @@
+Final Counts:
+Total number of rows in raw SQL database: 2729
+Total unique restaurants before processing: 2729
+Total unique restaurants after processing: 2729
+
+Top 20 Municipalities by Number of Unique Restaurants (UberEats):
+1. Antwerp: 714
+2. Gent: 343
+3. Leuven: 197
+4. Brussel: 130
+5. Bruges: 101
+6. Antoing: 91
+7. Mechelen: 68
+8. Sint-Truiden: 65
+9. Anderlecht: 59
+10. Oostende: 47
+11. Kortrijk: 45
+12. Waterloo: 43
+13. Sint-Niklaas: 43
+14. Hasselt: 42
+15. Evere: 27
+16. Zaventem: 27
+17. Vilvoorde: 26
+18. Jette: 26
+19. Schaarbeek: 25
+20. Uccle: 24

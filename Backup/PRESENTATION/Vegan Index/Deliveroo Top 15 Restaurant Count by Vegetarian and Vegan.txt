@@ -1,0 +1,36 @@
+Total number of unique restaurants: 2716
+Final count of unique restaurants after remapping: 2716
+Top Municipalities with Vegetarian Data:
+              Municipality  Restaurant Count  Veg Restaurant Count  \
+1                ANTWERPEN               790                   135   
+14                    GENT               452                   100   
+23                  LEUVEN               242                    45   
+4                   BRUGGE               226                    46   
+21                KORTRIJK               116                    19   
+26                MECHELEN               111                    18   
+16                 HASSELT                80                    12   
+45                   UKKEL                61                     5   
+28                OOSTENDE                57                    13   
+33              SCHAARBEEK                54                     3   
+48                WATERLOO                45                     5   
+5                  BRUSSEL                42                     4   
+39  SINT-LAMBRECHTS-WOLUWE                37                     6   
+32               ROESELARE                36                     7   
+18                   JETTE                35                     0   
+
+    Percentage Veg  
+1            17.09  
+14           22.12  
+23           18.60  
+4            20.35  
+21           16.38  
+26           16.22  
+16           15.00  
+45            8.20  
+28           22.81  
+33            5.56  
+48           11.11  
+5             9.52  
+39           16.22  
+32           19.44  
+18            0.00  

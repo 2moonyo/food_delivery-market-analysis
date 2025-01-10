@@ -1,0 +1,25 @@
+Top 20 Deliveroo Restaurant Distribution
+
+Total number of unique restaurants: 2716
+Final count of unique restaurants after remapping: 2716
+Top 20 Cities by Number of Unique Restaurants (Deliveroo):
+1. ANTWERPEN: 790
+2. GENT: 452
+3. LEUVEN: 242
+4. BRUGGE: 226
+5. KORTRIJK: 116
+6. MECHELEN: 111
+7. HASSELT: 80
+8. UKKEL: 61
+9. OOSTENDE: 57
+10. SCHAARBEEK: 54
+11. WATERLOO: 45
+12. BRUSSEL: 42
+13. SINT-LAMBRECHTS-WOLUWE: 37
+14. ROESELARE: 36
+15. JETTE: 35
+16. AALST: 35
+17. SINT-PIETERS-WOLUWE: 35
+18. SINT-NIKLAAS: 29
+19. EVERE: 26
+20. GENK: 24

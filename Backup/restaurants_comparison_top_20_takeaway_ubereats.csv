@@ -1,0 +1,21 @@
+city,Restaurant_Count,UberEats_Restaurant_Count,Veg_Restaurant_Count,Percentage Veg
+antwerp,171920,171920,180823,105.18
+ghent,48672,48672,54576,112.13
+leuven,8924,8924,9894,110.87
+mechelen,7480,7480,7820,104.55
+vilvoorde,4425,4425,4475,101.13
+aalst,3172,3172,3477,109.62
+zaventem,2916,2916,2916,100.0
+hasselt,2419,2419,2747,113.56
+dilbeek,1026,1026,1026,100.0
+kortrijk,990,990,1125,113.64
+sint-niklaas,817,817,860,105.26
+kraainem,731,731,765,104.65
+bruges,702,702,810,115.38
+turnhout,399,399,418,104.76
+ostend,360,360,360,100.0
+schoten,336,336,348,103.57
+drogenbos,315,315,315,100.0
+knokke-heist,275,275,330,120.0
+kapellen,270,270,280,103.7
+haren,250,0,251,100.4
